@@ -1,1 +1,1 @@
-# GifTastic Baseball
+On this project I used the GIPHY API to make a dynamic web page that populates with gifs of MLB's Greatest Baseball Players as well as enabling the user to add their own favorite player and view gifs for that player. I called the GIPHY API and used JavaScript and jQuery to change the HTML on my site.
