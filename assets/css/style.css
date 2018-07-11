@@ -5,3 +5,13 @@ body{
 h1{
     color: red;
 }
+
+#player-input{
+    border: solid 2px ;
+}
+
+#add{
+    color: purple;
+    font-style: italic;
+}
+
