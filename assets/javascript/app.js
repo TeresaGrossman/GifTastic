@@ -27,7 +27,7 @@ function submitButtonClicked() {
 //API call to server obtain data
 function searchGif(bbName) {
     $.ajax({
-            url: 'https://api.giphy.com/v1/gifs/search?q= ' + bbName + ' &api_key=XFFV7uwDiuXnEk93bRv14tJlX056dSd4',
+            url: 'https://api.giphy.com/v1/gifs/search?q= ' + bbName + ' &api_key=XFFV7uwDiuXnEk93bRv14tJlX056dSd4&limit=10&offset=0&rating=G&lang=en',
             method: 'GET',
         })
         .done(function(response) {

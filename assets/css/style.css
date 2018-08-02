@@ -1,9 +1,27 @@
+html{
+    height: 100%;
+    
+}
 body{
-    background-color: lightblue;
+    background: linear-gradient(to bottom right, rgb(50, 42, 165), white , red); 
+    /*background: linear-gradient(to bottom right, rgba(50, 42, 165, .2), rgba(212, 125, 10, .2), rgb(216, 158, 82, .2 ));*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
 }
 
+/* #box{
+    background-image: url("../images/mittBat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%; 
+} */
 h1{
-    color: red;
+    color: darkblue;
+}
+#container{
+    display: flex;
+
 }
 
 #player-input{
