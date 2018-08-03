@@ -1,6 +1,6 @@
 
 //Create Array of players//
-var baseballArray = ["Babe Ruth", "Willie Mays", "Ty Cobb", "Barry Bonds", "Lou Gehrig", "Hank Aaron", "Ted Williams", "Cy Young", "Stan Musial", "Jackie Robinson"];
+var baseballArray = ["Babe Ruth⚾", "Willie Mays⚾", "Ty Cobb⚾", "Barry Bonds⚾", "Lou Gehrig⚾", "Hank Aaron⚾", "Ted Williams⚾", "Cy Young⚾", "Stan Musial⚾", "Jackie Robinson⚾"];
 
 
 //Create buttons for the players by looping through and generating for each player
