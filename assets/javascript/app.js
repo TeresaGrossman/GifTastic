@@ -9,7 +9,7 @@ $(document).ready(function() {
         $("#baseball-buttons").append("<button type='button' onclick='searchGif(\"" + baseballArray[i] + "\")' class='btn btn-primary' value=' " + baseballArray[i] + "'> " + baseballArray[i] + " </button>");
     }
 });
-//Code for listening to click on car
+//Code for listening to click on gify
 function baseballButtonClicked() {
     var userInput = $('#baseball-input').val();
     searchGif(userInput);

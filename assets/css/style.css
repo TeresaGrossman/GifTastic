@@ -7,14 +7,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
+    padding-top: 20px;
 }
 
-/* #box{
-    background-image: url("../images/mittBat.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%; 
-} */
 h1{
     color: darkblue;
 }
@@ -28,7 +23,10 @@ h1{
 }
 
 #add{
-    color: purple;
+    color: darkblue;
     font-style: italic;
+}
+#add-bbPlayer{
+    color: blue;
 }
 
